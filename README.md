@@ -4,7 +4,8 @@ I.Course Description
   The  study  of systems  that  can  recognize,  interpret,  process,  and  simulate  human  affect. Topics may include physiology of emotion, lie detection, wearable devices, music, gaming, and ethical concerns associated with affective computing.
 
 II.Course Objectives and Learning Outcomes
-  On successful completion of the course, students should be able to:
+ 
+ On successful completion of the course, students should be able to:
 
   •Develop systems that recognize human affectsoStudents will learn how to train deep neural networks to recognize human affects from multimodal data that includes, but is not limitedto, RGB and thermal images, 3D mesh models, and physiological data.
 
