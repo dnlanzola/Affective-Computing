@@ -1,9 +1,3 @@
-# ############################################################
-# Name: Project3.py                                          #
-# Authors: Blanette Baltimore, Karishma Jayaprakash,         #
-# Curtis Smith III, Matthew Kramer and Daniel Anzola Delgado #
-##############################################################
-
 from __future__ import print_function
 import os
 import sys
